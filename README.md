@@ -159,7 +159,7 @@ Time steps are increased with spatial resolution to ensure stability.
 * Constant volatility and interest rate
 * No dividends
 * Frictionless market
-* Risk-free rate fixed at **2%** (based on 2022 treasury yields)
+* Risk-free rate fixed at **2%** (based on 2022 3-month U.S. Treasury Yields)
 * 252 trading days per year
 
 ---
