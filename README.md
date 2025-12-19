@@ -41,7 +41,7 @@ reducing the PDE to a system of ODEs in time, which are solved using RK4.
 
 ## Features
 
-- Reads real **options chain data** from CSV (uses modified txt file to fit into max file size for repo)
+- Reads real **options chain data** from txt (uses modified txt file to fit into max file size for repo)
 - Computes **analytical Black–Scholes prices**
 - Solves the PDE numerically using **MOL + RK4**
 - Compares:
